@@ -1,4 +1,4 @@
 {
   "Version": 1,
-  "AllowedIPs": []
+  "AllowedIPs": ["170.245.24.37"]
 }
